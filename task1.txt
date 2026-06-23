@@ -1,0 +1,1 @@
+We use Git commit because it saves a snapshot of your work so we can track changes and undo mistakes anytime.
